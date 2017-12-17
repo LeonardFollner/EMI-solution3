@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EMI Exercise 3</string>
+    <string name="task_1">Klangsynthese</string>
+    <string name="task_2">Kontakte</string>
+    <string name="task_1_desc">Implementierung verschiedener Wellenformen für die Klangsynthese.</string>
+    <string name="task_2_desc">Speichern, verwalten und bearbeiten von Kontakten.</string>
+    <string name="task_1_btn">Zu Aufgabe 3.1</string>
+    <string name="task_2_btn">Zu den Aufgaben 3.2 u. 3.3</string>
+</resources>
